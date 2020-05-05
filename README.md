@@ -1,5 +1,5 @@
 # BTCProphet
-This is very simple, but usable AI orice prediction model, that uses coinmarketcap data as a source.
+This is very simple, but usable AI price prediction model, that uses coinmarketcap data as a source.
 It counts days of the week, monthly and yearly patterns, holidays and so on. 
 Probably would be more usable for more predictable markets like SNP500.
 
